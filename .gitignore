@@ -1,2 +1,8 @@
-.vscode/settings.json
-.ipynb_checkpoints
+/node_modules
+/xvba_excel_backup
+.gitignore
+excel_import.log
+excel_server.log
+excel_exec.log
+/xvba_modules
+/logs

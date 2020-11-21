@@ -1,0 +1,16 @@
+{
+    "app_name": "XVBA",
+    "description": "",
+    "author": "linuxing3",
+    "email": "linuxing3",
+    "create_ate": "Sat Nov 21 2020 13:39:03 GMT-0400 (委内瑞拉时间)",
+    "excel_file": "index.xlsm",
+    "vba_folder": "vba-files",
+    "logs": "on",
+    "xvba_packages": {
+        "excel-types": "1.0.0",
+        "linear": "1.0.2",
+        "ai": "*"
+    },
+    "xvba_dev_packages": {}
+}
